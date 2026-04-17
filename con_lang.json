@@ -1,0 +1,12 @@
+{
+    "uk": {
+        "Window": ["Вибір мови"],
+        "Label": ["Оберіть мову системи:"],
+        "Button": ["Українська", "English"]
+    },
+    "en": {
+        "Window": ["Language Selection"],
+        "Label": ["Select system language:"],
+        "Button": ["Ukrainian", "English"]
+    }
+}

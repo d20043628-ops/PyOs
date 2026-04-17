@@ -1,0 +1,30 @@
+{
+    "palette": {
+        "red":    {"bg": "#E4123C", "fg": "#5C190C"},
+        "orange": {"bg": "#F28C28", "fg": "#C04000"},
+        "yellow": {"bg": "#FFBF00", "fg": "#AE7100"},
+        "green":  {"bg": "#00A36C", "fg": "#454B1B"},
+        "blue":   {"bg": "#89CFF0", "fg": "#466695"},
+        "violet": {"bg": "#B183AE", "fg": "#301934"},
+        "white":  {"bg": "#e0e0e0", "fg": "#202020"},
+        "black":  {"bg": "#101010", "fg": "#E0E0E0"},
+        "gray":   {"bg": "#AAAAAA", "fg": "#000000"}
+    },
+    "fonts": {
+        "list": ["Arial", "Helvetica", "Times New Roman", "Consolas"],
+        "sizes": ["8", "10", "12", "14", "16", "18"]
+    },
+    "uk": {
+    "theme_win": {
+        "title": "Теми PyOs",
+        "frame": "Кольори інтерфейсу"
+        }
+    },
+    "en": {
+        "theme_win": {
+            "title": "Theme PyOs",
+            "frame": "Interface Colors"
+        }
+    }
+
+}

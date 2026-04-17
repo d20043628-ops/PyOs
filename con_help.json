@@ -1,0 +1,20 @@
+{
+    "uk": {
+        "text": {
+            "Window": ["Довідка PyOS"],
+            "Label": [
+                "Вітаю у моїй системі!",
+                "Щоб користуватися нею, потрібно увійти у свій акаунт (або зареєструватися) або скористатися гостьовим режимом. \n\nПроте в гостьовому режимі функції будуть обмежені. :( \nТому, щоб випробувати всі можливості, радимо створити акаунт."
+            ]
+        }
+    },
+    "en": {
+        "text": {
+            "Window": ["Help PyOS"],
+            "Label": [
+                "Welcome to my system!",
+                "To use it, please log in to your account (or register if you don't have one) or use the guest mode. \n\nNote that features are limited in guest mode :( . \nTo experience the system's full potential, we recommend creating an account."
+            ]
+        }
+    }
+}

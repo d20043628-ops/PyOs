@@ -1,0 +1,16 @@
+{
+    "uk": {
+        "text": {
+            "Window": ["Налаштування PyOs"],
+            "Label": ["Оберіть розділ для налаштування"],
+            "Button": ["Тема", "Мова", "Шрифти"]
+        }
+    },
+    "en": {
+        "text": {
+            "Window": ["Setting Pyos"],
+            "Label": ["Select a section to configure"],
+            "Button": ["Theme", "Language", "Fonts"]
+        }
+    }
+}

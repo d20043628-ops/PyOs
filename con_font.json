@@ -1,0 +1,14 @@
+{
+    "uk": {
+        "text": {
+            "Window": ["Налаштування шрифту"],
+            "Button": ["Застосувати"]
+        }
+    },
+    "en": {
+        "text": {
+            "Window": ["Font Settings"],
+            "Button": ["Apply"]
+        }
+    }
+}

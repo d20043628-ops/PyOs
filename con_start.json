@@ -1,0 +1,16 @@
+{
+    "uk": {
+        "text": {
+            "Label": ["ВІТАЄМО В PYOS", "Розробник: DiMoNnGDM. Будь ласка, не копіюйте"],
+            "Button": ["Налаштування", "Довідка", "Увійти", "Гість"],
+            "Window": ["Вітаємо у PyOs"]
+        }
+    },
+    "en": {
+        "text": {
+            "Label": ["WELCOME IN PYOS", "Developer: DiMoNnGDM. PLS don`t copy"],
+            "Button": ["Settings", "Help", "Log in", "Guest"],
+            "Window": ["Welcome to PyOs"]
+        }
+    }
+}
